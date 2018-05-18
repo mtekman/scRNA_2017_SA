@@ -1,0 +1,10 @@
+Notes:
+
+ - [x] Fit a gaussian to your genes after normalisation but BEFORE gene filtering.
+ - [x] Or do a median expression analysis, stdev over all excluding outliers
+ - we are looking for significant variations in a gene, so some cells will be high
+   and others will be low. All other's we don't care about
+   
+ - [x] Do a plotQC of his genes
+ - [x] Use GOSeq for ontology annotations in R
+ - [x] Do SC3_plot_markers of his GOI
