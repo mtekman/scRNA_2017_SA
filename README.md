@@ -3,17 +3,20 @@
 Folders:
 
 * *2017_E65_MP-dirty*
- * Mouth-pippeted data
- * initial_attempts -- ignore
- * second_attempt -- looking for biological variability 
+  * Mouth-pippeted data
+  * initial_attempts -- ignore
+  * second_attempt -- looking for biological variability 
+
 * *2017_E65_MP-clean*
- * Mouth-pippeted data, clean approach. 
- * Hemberg workflow
+  * Mouth-pippeted data, clean approach. 
+  * Hemberg workflow
+
 * *2018_E65_HP-TODO*
- * Hand-picked data (skipped due to priority given to E725 data)
+  * Hand-picked data (skipped due to priority given to E725 data)
+
 * 2018_E725_FACS-multi*
- * 0_test_matrix\* - comparing different workflow parameters
- * analy_\* - analyses of interest (presented in last meeting)
+  * 0_test_matrix\* - comparing different workflow parameters
+  * analy_\* - analyses of interest (presented in last meeting)
 
 
 ```
